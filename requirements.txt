@@ -1,0 +1,14 @@
+langchain
+langserve[all]
+langchain-cli
+langsmith
+Pillow
+tesseract
+lxml
+docx2txt
+pdf2image
+xlrd
+pandas
+python-dateutil>=2.8.2
+gpt4all
+chromadb
