@@ -12,3 +12,5 @@ pandas
 python-dateutil>=2.8.2
 gpt4all
 chromadb
+pypdf
+langchain_community
